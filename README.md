@@ -18,4 +18,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
+## Image editor
+
+- This have a feature of adding text into card,
+- This have a feeature of updating existing text along with position change and styling changes.
+
 ![Description](./output_video.gif)
